@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "communityId": 101,
+    "title": "Welcome to Our Tech Community!",
+    "content": "We're excited to have you join our growing community of developers and tech enthusiasts. Feel free to share your projects and ask questions!",
+    "author": {
+      "id": 1001,
+      "name": "John Doe",
+      "avatar": "https://example.com/avatars/john.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 10:30:00",
+    "tags": ["welcome", "community", "tech"]
+  },
+  {
+    "id": 2,
+    "communityId": 101,
+    "title": "Best Practices for API Design",
+    "content": "Here are some key principles to follow when designing RESTful APIs: Use proper HTTP status codes, implement consistent naming conventions, and always validate input data.",
+    "author": {
+      "id": 1002,
+      "name": "Jane Smith",
+      "avatar": "https://example.com/avatars/jane.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 14:15:00",
+    "tags": ["api", "best-practices", "development"]
+  },
+  {
+    "id": 3,
+    "communityId": 101,
+    "title": "Private Discussion",
+    "content": "This is a private post that should not appear in public feeds.",
+    "author": {
+      "id": 1003,
+      "name": "Private User",
+      "avatar": "https://example.com/avatars/private.jpg"
+    },
+    "isPublic": false,
+    "createdAt": "2025-06-25 16:00:00",
+    "tags": ["private"]
+  },
+  {
+    "id": 4,
+    "communityId": 102,
+    "title": "Color Theory in UI Design",
+    "content": "Understanding color psychology can greatly improve your UI designs. Warm colors evoke energy and excitement, while cool colors promote calmness and trust.",
+    "author": {
+      "id": 1004,
+      "name": "Alice Johnson",
+      "avatar": "https://example.com/avatars/alice.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 09:45:00",
+    "tags": ["design", "color-theory", "ui"]
+  },
+  {
+    "id": 5,
+    "communityId": 102,
+    "title": "Typography Trends 2025",
+    "content": "This year's typography trends focus on bold, expressive fonts and creative text layouts. Variable fonts are becoming increasingly popular for their flexibility.",
+    "author": {
+      "id": 1005,
+      "name": "Bob Wilson",
+      "avatar": "https://example.com/avatars/bob.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 13:20:00",
+    "tags": ["typography", "trends", "design"]
+  },
+  {
+    "id": 6,
+    "communityId": 101,
+    "title": "JavaScript ES2025 Features",
+    "content": "The latest JavaScript features include improved async/await patterns, better error handling, and new array methods that make code more readable.",
+    "author": {
+      "id": 1006,
+      "name": "Charlie Brown",
+      "avatar": "https://example.com/avatars/charlie.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 11:00:00",
+    "tags": ["javascript", "es2025", "features"]
+  },
+  {
+    "id": 7,
+    "communityId": 101,
+    "title": "Database Optimization Tips",
+    "content": "Improve your database performance with these tips: Use proper indexing, optimize your queries, and consider caching frequently accessed data.",
+    "author": {
+      "id": 1007,
+      "name": "Diana Prince",
+      "avatar": "https://example.com/avatars/diana.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 15:30:00",
+    "tags": ["database", "optimization", "performance"]
+  },
+  {
+    "id": 8,
+    "communityId": 103,
+    "title": "Top Indie Games of 2025",
+    "content": "This year has been amazing for indie games! Here are my top picks: Stellar Odyssey, Pixel Dreams, and Mystic Realms. Each offers unique gameplay experiences.",
+    "author": {
+      "id": 1008,
+      "name": "Eve Adams",
+      "avatar": "https://example.com/avatars/eve.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 12:45:00",
+    "tags": ["gaming", "indie", "reviews"]
+  },
+  {
+    "id": 9,
+    "communityId": 103,
+    "title": "Game Development Tools",
+    "content": "For aspiring game developers, here are essential tools to get started: Unity for 3D games, Godot for 2D/3D, and Construct 3 for beginners.",
+    "author": {
+      "id": 1009,
+      "name": "Frank Miller",
+      "avatar": "https://example.com/avatars/frank.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 14:00:00",
+    "tags": ["gamedev", "tools", "development"]
+  },
+  {
+    "id": 10,
+    "communityId": 101,
+    "title": "Cybersecurity Best Practices",
+    "content": "Protect your applications with these security measures: Use HTTPS everywhere, implement proper authentication, sanitize user inputs, and keep dependencies updated.",
+    "author": {
+      "id": 1010,
+      "name": "Grace Lee",
+      "avatar": "https://example.com/avatars/grace.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 16:45:00",
+    "tags": ["security", "best-practices", "cybersecurity"]
+  },
+  {
+    "id": 11,
+    "communityId": 101,
+    "title": "Cloud Computing Trends",
+    "content": "Serverless architecture and edge computing are reshaping how we build applications. Learn about the benefits and challenges of these technologies.",
+    "author": {
+      "id": 1011,
+      "name": "Henry Clark",
+      "avatar": "https://example.com/avatars/henry.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 17:15:00",
+    "tags": ["cloud", "serverless", "edge-computing"]
+  },
+  {
+    "id": 12,
+    "communityId": 101,
+    "title": "Machine Learning Basics",
+    "content": "Getting started with ML? Begin with understanding supervised vs unsupervised learning, then explore popular libraries like TensorFlow and PyTorch.",
+    "author": {
+      "id": 1012,
+      "name": "Ivy Martinez",
+      "avatar": "https://example.com/avatars/ivy.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 18:00:00",
+    "tags": ["machine-learning", "ai", "beginners"]
+  },
+  {
+    "id": 13,
+    "communityId": 102,
+    "title": "UX Research Methods",
+    "content": "Effective UX research combines qualitative and quantitative methods. User interviews, surveys, and usability testing help create user-centered designs.",
+    "author": {
+      "id": 1013,
+      "name": "Sarah Connor",
+      "avatar": "https://example.com/avatars/sarah.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 08:30:00",
+    "tags": ["ux", "research", "design"]
+  },
+  {
+    "id": 14,
+    "communityId": 104,
+    "title": "Digital Marketing Strategies 2025",
+    "content": "Stay ahead with these digital marketing trends: AI-powered personalization, voice search optimization, and interactive content experiences.",
+    "author": {
+      "id": 1014,
+      "name": "Mike Johnson",
+      "avatar": "https://example.com/avatars/mike.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-25 19:00:00",
+    "tags": ["marketing", "digital", "strategy"]
+  },
+  {
+    "id": 15,
+    "communityId": 103,
+    "title": "Mobile Game Monetization",
+    "content": "Learn effective monetization strategies for mobile games: freemium models, in-app purchases, and rewarded advertising that enhance user experience.",
+    "author": {
+      "id": 1015,
+      "name": "Lisa Wang",
+      "avatar": "https://example.com/avatars/lisa.jpg"
+    },
+    "isPublic": true,
+    "createdAt": "2025-06-24 20:15:00",
+    "tags": ["mobile", "monetization", "gaming"]
+  }
+]

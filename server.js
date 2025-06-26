@@ -17,7 +17,7 @@ app.use(cors());
 app.use(express.json());
 app.use(rate_limit);
 
-app.use('/api/v1', v1Router)
+app.use('/v1/widget', v1Router)
 
 
 // handle undefined routes
