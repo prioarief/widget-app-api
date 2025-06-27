@@ -12,6 +12,7 @@ A robust and scalable RESTful API for retrieving posts for content creators' wid
 ### 1. Clone this repository
 
 ```bash
+git clone https://github.com/prioarief/widget-app-api.git
 ```
 
 ### 2. Install Dependencies
